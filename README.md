@@ -6,7 +6,7 @@ symbol[[link](https://i.pinimg.com/originals/bf/14/e0/bf14e06af94aece70c83b08b3b
 symbol[[link](http://www.coolfreeimages.net/images/cars/cars_28.jpg)]
 3.lamborghini
 symbol[[link](https://moneyinc.com/wp-content/uploads/2018/06/Lamborghini-750x406.jpg)]
-[link](https://i.pinimg.com/originals/bf/14/e0/bf14e06af94aece70c83b08b3b41515e.jpg).
+
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
