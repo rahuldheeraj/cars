@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[link](https://wordpress.com/block-editor/page/rahul52323.wordpress.com/2) and ![imahe](rr.jpeg)
+[link](https://wordpress.com/block-editor/page/rahul52323.wordpress.com/2) and ![image](rr.jpeg)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
